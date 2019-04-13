@@ -11,7 +11,7 @@ Brick Breaker is a single player game that using the paddle to bounce the ball a
 Use the arrow keys to move the paddle and always to keep track of the ball and not letting it touch the bottom of the game.You will have 3 lives to break all the bricks without touching the bottom. If you break all the bricks and still have lives, then you win!
 
 ### Note:
-If there no lives left, you lose!
+If there is no lives left, you lose!
 
 ### Hint:
 Use RESET button to Reset Game
