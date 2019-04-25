@@ -1,4 +1,4 @@
-# GBA - BRICK BREAK GAME
+# GBA - BRICK BREAKER GAME
 ================================================================
 ### Author: Tu Nguyen
 
